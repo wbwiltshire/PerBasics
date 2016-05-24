@@ -1,0 +1,7 @@
+%CFG = (
+    'profile' => {
+		'name' => 'Warren',
+		'email' => 'wbwiltshire@hotmail.com',
+		'age' => 54
+	}
+);

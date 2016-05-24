@@ -1,0 +1,9 @@
+%CFG = (
+    'server' => {
+		'hostname' => 'localhost',
+		'database'     => 'Customer',
+		'user'   => 'postgres',
+		'password'   => '********',
+		'port' => 5432
+	}
+);
